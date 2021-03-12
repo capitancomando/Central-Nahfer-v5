@@ -1,0 +1,6 @@
+#!/bin/bash
+# ejecucion
+cd Central-Nahfwr
+
+bash Nahfer-Hacking.sh
+

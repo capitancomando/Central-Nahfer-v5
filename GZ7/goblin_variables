@@ -1,0 +1,18 @@
+# This file contains universal variable definitions.
+program_name="Central-Nahfer"
+version="6.0"
+author="CC & ZR"
+DIALOG=${DIALOG=dialog}
+PWD=$(pwd)
+termux_path="/data/data/com.termux/files/usr/bin"
+kali_linux_path="/usr/bin"
+#Directory
+log_directory="logs"
+tmp_directory="tmp"
+config_directory=".config"
+#Files
+colors="GZ7/colors"
+
+
+
+#Coded by Z3R07-RED on Nov 5 2020
